@@ -26,3 +26,18 @@ h1 {
 .article p {
   margin: 5px;
 }
+
+#archive {
+  width: 50%;
+  margin: 0 auto;
+  display: none;
+}
+
+.archive h2 {
+  margin: 0;
+  padding: 5px;
+}
+
+.archive p {
+  margin: 5px;
+}
